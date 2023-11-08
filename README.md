@@ -1,5 +1,7 @@
 # Amazon-Page-Clone
-
+# Login Credentials 
+UserName = "Kartik"
+Password : "123"
 ## Introduction
 
 In this session we will clone [Amazon](https://www.amazon.com/) shopping landing page. We'll mostly use things we've learned in Netflix and Spotify clones, applying the similar techniques and using the frameworks we have seen before - Twitter's [Bootstrap](http://getbootstrap.com) and [Font Awesome](http://fontawesome.io/).
